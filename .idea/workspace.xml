@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16391cea-4593-446a-bad6-853ef5f1d6d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/introducao/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/introducao/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introducao/introducao/src/TestaWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/introducao/introducao/src/TestaWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introducao/introducao/src/TestaWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/introducao/introducao/src/TestaWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introducao/out/production/introducao/TestaExercism.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/introducao/out/production/introducao/TestaWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/introducao/out/production/introducao/TestaWhile.class" afterDir="false" />
-    </list>
+    <list default="true" id="16391cea-4593-446a-bad6-853ef5f1d6d2" name="Changes" comment="introducao a orientacao a objetos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +60,29 @@
       <option name="presentableId" value="Default" />
       <updated>1633532738311</updated>
     </task>
+    <task id="LOCAL-00001" summary="introducao a orientacao a objetos">
+      <created>1643386946478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643386946478</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="introducao a orientacao a objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="introducao a orientacao a objetos" />
   </component>
 </project>
