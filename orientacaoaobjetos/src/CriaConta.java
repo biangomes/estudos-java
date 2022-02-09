@@ -15,6 +15,29 @@ public class CriaConta {
         // primeiraConta, na realidade, é uma REFERÊNCIA ao objeto
 
 
-        // Criando outra referência
+        // Criando outras referências
+        Conta contaAnaFlavia = new Conta();
+        Conta contaBeatriz = new Conta();
+        Conta contaRose = new Conta();
+
+        // Adicionando valores ao objeto contaAnaFlavia
+        contaAnaFlavia.saldo = 40.00; contaAnaFlavia.agencia = 0001; contaAnaFlavia.numero = 123;
+        contaAnaFlavia.titular = "Ana Flávia Carvalho da Silva";
+
+        // Adicionando valores ao objeto contaBeatriz
+        contaBeatriz.saldo = 161.00; contaBeatriz.agencia = 0001; contaBeatriz.numero = 345;
+        contaBeatriz.titular = "Beatriz Nascimento Gomes";
+
+        // Adicionando valores ao objeto contaRose
+        contaRose.saldo = 2000.00; contaRose.agencia = 1001; contaRose.numero = 0664;
+        contaRose.titular = "Maria Rozilda";
+
+
+        // Acessando os objetos
+        System.out.println("SALDO\n Ana Flávia: "
+                + contaAnaFlavia.saldo + "\n"
+                + "Beatriz: "
+                + contaBeatriz.saldo + "\n"
+                + "Rose: " + contaRose.saldo);
     }
 }
