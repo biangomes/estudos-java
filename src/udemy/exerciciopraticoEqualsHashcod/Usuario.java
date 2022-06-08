@@ -1,4 +1,4 @@
-package udemy.exerciciopratico;
+package udemy.exerciciopraticoEqualsHashcod;
 
 import java.util.Objects;
 

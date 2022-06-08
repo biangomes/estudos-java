@@ -1,4 +1,4 @@
-package udemy.exerciciopratico;
+package udemy.exerciciopraticoEqualsHashcod;
 
 public class App {
     public static void main(String[] args) {
