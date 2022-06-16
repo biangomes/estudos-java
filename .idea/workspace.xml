@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16391cea-4593-446a-bad6-853ef5f1d6d2" name="Changes" comment="introducao a orientacao a objetos">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura-de-dados/out/production/estrutura-de-dados/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura-de-dados/out/production/estrutura-de-dados/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura-de-dados/out/production/estrutura-de-dados/Vetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura-de-dados/out/production/estrutura-de-dados/Vetor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura-de-dados/out/production/estrutura-de-dados/VetorTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura-de-dados/out/production/estrutura-de-dados/VetorTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orientacaoaobjetos/src/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/orientacaoaobjetos/src/Conta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orientacaoaobjetos/src/TesteReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/orientacaoaobjetos/src/TesteReferencias.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1z8bbw2g7rrbMzYlTZPkoUBdCiV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\java\curso-alura\sintaxe-basica" />
+      <recent name="C:\java\curso-alura\introducao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="criaConta" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="MAIN_CLASS_NAME" value="CriaConta" />
+      <module name="estudos-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16391cea-4593-446a-bad6-853ef5f1d6d2" name="Changes" comment="" />
+      <created>1633532738311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633532738311</updated>
+    </task>
+    <task id="LOCAL-00001" summary="introducao a orientacao a objetos">
+      <created>1643386946478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643386946478</updated>
+    </task>
+    <task id="LOCAL-00002" summary="introducao a orientacao a objetos">
+      <created>1644434274546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644434274546</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="introducao a orientacao a objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="introducao a orientacao a objetos" />
+  </component>
+</project>

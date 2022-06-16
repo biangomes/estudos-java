@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -7,4 +8,11 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="estrutura-de-dados/src"/>
+	<classpathentry kind="src" path="exercicios/src"/>
+	<classpathentry kind="src" path="orientacaoaobjetos/src"/>
+	<classpathentry kind="output" path="estrutura-de-dados/out/production/estrutura-de-dados"/>
+>>>>>>> dd2001ed9cee24573e42d2d6bc265d49ce4a1de5
 </classpath>
